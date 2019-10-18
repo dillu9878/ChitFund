@@ -1,5 +1,5 @@
 # Problem Statement
-** Context** :
+### *Context* :
 
 A chit fund has 25 members. Each month they contribute Rs 2000 each. 
 End of the month, the person who bids the lowest for the corpus, gets his bid. 
@@ -17,4 +17,5 @@ Task :
 	•	Write an R/Python script which calculates the annualized return of chit fund participant ?- Show the Return % for each month's bid winner.
  
 Document your assumptions.
-Note: Please google about how chitfund works, incase if you are not familiar with the mechanism! 
+
+**Note**: Please google about how chitfund works, incase if you are not familiar with the mechanism! 
